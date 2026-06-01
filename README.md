@@ -1,1 +1,1 @@
-This is project architector
+This is project architecture
