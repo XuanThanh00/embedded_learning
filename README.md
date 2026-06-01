@@ -1,1 +1,1 @@
-This is project architecter
+This is project architector
